@@ -191,8 +191,3 @@ randomWord();
 generateButtons();
 guessedWord();
 category();
-
-// function updateHangmanPicture() {
-//   document.getElementById('hangmanPic').src = './images/' + lives + '.jpg';
-// }
-// updateHangmanPicture();
