@@ -1,0 +1,52 @@
+body {
+  background-color: black;
+  color: white;
+}
+.title{
+  text-align: center;
+  text-decoration: underline;
+  color: white;
+  font-family: 'Kaushan Script', cursive;
+  font-size: 65px;
+}
+.guess{
+  float: right;
+  margin-right: 40px;
+}
+.gameBoard{
+  text-align: center;
+}
+button{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: black;
+  padding: 15px 32px;
+  font-size: 16px;
+}
+div{
+font-style: italic;
+font-weight: bold;
+text-align: center;
+}
+div.hintC:empty { 
+  border: none;
+  background-color: black;
+}
+.hintC{
+  border-style: solid;
+  border-radius: 25px;
+  border-color: red;
+  background-color: green;
+  width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+}
+#placeholder{
+  margin-left: 100px;
+  width: 350px;
+  height: 300px;
+}
+#categories{
+  color: green;
+}
