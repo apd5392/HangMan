@@ -6,8 +6,7 @@
 
 ## By Adama Doumbia
 
-### [Github](https://github.com/apd5392/) | [LinkedIn](www.linkedin.com/in/adama-doumbia223) | 
-# [Trello](https://trello.com/invite/b/IALlGxlW/9f67328e5e810b92933e81ce747d70e3/hangman-game-project) | [Wireframe](https://www.figma.com/file/KOrnMSYnWTmdMJLmTtRGqM/Hang-Man-Project?node-id=0%3A1)
+### [Github](https://github.com/apd5392/) | [LinkedIn](www.linkedin.com/in/adama-doumbia223)
 
 ---
 
@@ -25,7 +24,7 @@ Simple Game of Hangman where the player will have to guess a randomly selected w
 - MS Paint
 
 ---
-### Images
+### **Images**
 
 ![Start](https://i.imgur.com/fI8PsBy.png)
 
@@ -35,12 +34,19 @@ Simple Game of Hangman where the player will have to guess a randomly selected w
 
 # **Wireframe**
 
+[Wireframe](https://www.figma.com/file/KOrnMSYnWTmdMJLmTtRGqM/Hang-Man-Project?node-id=0%3A1)
 
 ![Wireframe](https://i.imgur.com/5zm2OBI.png)
 
 ---
 
-# Credit
+# **Trello**
+
+[Trello](https://trello.com/invite/b/IALlGxlW/9f67328e5e810b92933e81ce747d70e3/hangman-game-project)
+
+---
+
+# **Credit**
 
 Image swap logic [here](https://www.youtube.com/watch?v=DoVG1q71ZOU)
 
