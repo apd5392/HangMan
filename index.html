@@ -10,12 +10,37 @@
     />
     <link rel="stylesheet" href="style.css" />
 
-    <title class="startScreen">Hangman</title>
+    <title>Hangman</title>
   </head>
   <body>
-    <div class="startContainer">
-        <h1>Welcome to hangman</h1>
-        <button class="btn btn-info">Start Game</button>
+    <div class="container">
+      <h1 class="title">Hangman</h1>
+      <div class="guess">
+        Wins: <span id="totalWins">0</span> Losses:
+        <span id="totalLoss">0</span>
+        <br />
+        Lives: <span id="lives">6</span> of
+        <span id="maxLives"></span>
+        <br />
+        <button class="btn btn-info" onClick="clearScore()">Clear Score</button>
+      </div>
+      <div class="gameBoard">
+        <img id="placeholder" src="images/Podium.png" alt="EmptyPodium" />
+        <br />
+        <h2 class="subHeading">
+          Guess the word: <span id="categories">_</span>
+        </h2>
+        <div class="hintC" id="hint"></div>
+        <br />
+        <div id="wordLocation"></div>
+        <br />
+        <div id="keyboard"></div>
+        <button class="btn btn-info" onClick="hint()">Hint</button>
+        <button class="btn btn-info" onClick="reset()">New Word</button>
+        <!-- <button class="btn btn-info" onClick="clearScore()">Clear Score</button> -->
+      </div>
     </div>
+
+    <script src="script.js"></script>
   </body>
 </html>
