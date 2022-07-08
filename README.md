@@ -43,5 +43,7 @@ Simple Game of Hangman where the player will have to guess a word with limited e
 # Credit
 
 Image swap logic [here](//https://www.youtube.com/watch?v=DoVG1q71ZOU)
+
 Keyboard Generation [here](https://www.youtube.com/watch?v=UsSBmCmiKmI)
+
 Linking Arrays logic [here](https://www.youtube.com/watch?v=85FamWPXy4c&t=33s)
