@@ -21,6 +21,7 @@ Simple Game of Hangman where the player will have to guess a word with limited e
 - Javascript
 - HTML
 - CSS
+- MS Paint
 
 # **Wireframe**
 
