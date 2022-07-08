@@ -12,7 +12,7 @@
 
 # **_Description_**
 
-Simple Game of Hangman where the player will have to guess a word with limited errors.
+Simple Game of Hangman where the player will have to guess a randomly selected word. The player will be able to see what category the word is under and has access to one hint when guessing the word. The game will keep track of the amount of lives the player has and track how many wins and losses the player has accrued.
 
 ---
 
@@ -23,14 +23,20 @@ Simple Game of Hangman where the player will have to guess a word with limited e
 - CSS
 - MS Paint
 
-# **Wireframe**
+---
+### Images
 
-### Image
+![Start](https://i.imgur.com/fI8PsBy.png)
+
+![Lose](https://i.imgur.com/omodPtU.png)
+
+---
+
+# **Wireframe**
 
 [Wireframe](https://www.figma.com/file/KOrnMSYnWTmdMJLmTtRGqM/Hang-Man-Project?node-id=0%3A1)
 
 ![Wireframe](https://i.imgur.com/5zm2OBI.png)
-
 
 ---
 
@@ -42,7 +48,7 @@ Simple Game of Hangman where the player will have to guess a word with limited e
 
 # Credit
 
-Image swap logic [here](//https://www.youtube.com/watch?v=DoVG1q71ZOU)
+Image swap logic [here](https://www.youtube.com/watch?v=DoVG1q71ZOU)
 
 Keyboard Generation [here](https://www.youtube.com/watch?v=UsSBmCmiKmI)
 
