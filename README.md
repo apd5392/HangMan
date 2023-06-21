@@ -6,7 +6,7 @@
 
 ## By Adama Doumbia
 
-### [Github](https://github.com/apd5392/) | [LinkedIn](www.linkedin.com/in/adama-doumbia223)
+### [Github](https://github.com/apd5392/) | [LinkedIn](https://www.linkedin.com/in/adama-doumbia223/) | [HangMan](https://p1-hangman.surge.sh/)
 
 ---
 
